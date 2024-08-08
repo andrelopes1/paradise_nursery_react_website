@@ -1,0 +1,28 @@
+{
+  "name": "paradise-nursery",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^4.0.0"
+  },
+  "homepage": "https://andrelopes1.github.io/web-development-projects/React"
+}
+

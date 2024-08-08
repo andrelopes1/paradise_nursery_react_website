@@ -1,0 +1,54 @@
+/* Header.css */
+.header {
+  background-color: #4CAF50;
+  padding: 3px 50px 0px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo-container {
+  height: 100%;
+}
+
+.logo {
+  height: 80px; /* Adjust the height as needed */
+  width: auto;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.cart-count {
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 0.8em;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+
+  
