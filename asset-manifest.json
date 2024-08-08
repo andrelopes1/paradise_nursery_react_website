@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paradise_nursery_react_website/static/css/main.5940dde1.css",
+    "main.js": "/paradise_nursery_react_website/static/js/main.0e509255.js",
+    "static/media/background-image-cart.jpg": "/paradise_nursery_react_website/static/media/background-image-cart.d729efd424e06916f23c.jpg",
+    "static/media/products-backgroun.jpg": "/paradise_nursery_react_website/static/media/products-backgroun.96b2d9ad57a7330c3563.jpg",
+    "static/media/background-image_landing_page.jpg": "/paradise_nursery_react_website/static/media/background-image_landing_page.10efbb9590898fe4ac4f.jpg",
+    "static/media/Boston-Fern.jpg": "/paradise_nursery_react_website/static/media/Boston-Fern.0d68f9d92743ae3357ab.jpg",
+    "static/media/aloe-vera.webp": "/paradise_nursery_react_website/static/media/aloe-vera.83ade175bde39de5839c.webp",
+    "static/media/spider-plant.jpg": "/paradise_nursery_react_website/static/media/spider-plant.fc1dcf054de214bd7a9c.jpg",
+    "static/media/Peace-Lily.jpg": "/paradise_nursery_react_website/static/media/Peace-Lily.e78fe9806c08af9eddc3.jpg",
+    "static/media/Rosemary.jpg": "/paradise_nursery_react_website/static/media/Rosemary.362251d4eec57a51250e.jpg",
+    "static/media/snake-plant.jpg": "/paradise_nursery_react_website/static/media/snake-plant.f5a5e6bfeb184a90196e.jpg",
+    "static/media/logo.png": "/paradise_nursery_react_website/static/media/logo.ee460120a0fcc4ccd33b.png",
+    "index.html": "/paradise_nursery_react_website/index.html",
+    "main.5940dde1.css.map": "/paradise_nursery_react_website/static/css/main.5940dde1.css.map",
+    "main.0e509255.js.map": "/paradise_nursery_react_website/static/js/main.0e509255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5940dde1.css",
+    "static/js/main.0e509255.js"
+  ]
+}
